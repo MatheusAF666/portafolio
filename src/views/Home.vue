@@ -82,7 +82,10 @@
           >
             <div class="project-content">
               <div class="project-header">
-                <h3>{{ project.title }}</h3>
+                <div class="project-title-row">
+                  <h3>{{ project.title }}</h3>
+                  <span v-if="project.badge" class="project-badge">{{ project.badge }}</span>
+                </div>
                 <span class="project-role">{{ project.role }}</span>
               </div>
               <p class="project-description">{{ project.description }}</p>
@@ -682,6 +685,26 @@ body {
   color: var(--primary);
   margin-bottom: 0.75rem;
   transition: color 0.3s ease;
+}
+
+.project-title-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.project-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+  color: white;
+  padding: 0.35rem 1rem;
+  border-radius: 2rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: 1px solid #ea580c;
 }
 
 .project-card:hover .project-header h3 {

@@ -39,6 +39,8 @@
       "title": "Clinica Veterinaria Nicieza",
       "description": "Pagina web para una clinica veterinaria en Norena. Sitio desarrollado en WordPress con diseno responsivo, seccion de servicios y tienda con WooCommerce para productos y reservas.",
       "role": "WordPress Developer",
+      "badge": "En Desarrollo",
+      "status": "in-development",
       "technologies": ["WordPress", "WooCommerce", "Custom Themes", "ACF"],
       "image": "/images/projects/VeterinariaNicieza.jpeg",
       "metrics": {
