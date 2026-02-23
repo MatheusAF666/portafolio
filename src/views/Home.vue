@@ -27,7 +27,7 @@
             <p class="hero-tagline">{{ portfolioData.profile.tagline }}</p>
             <div class="hero-ctas">
               <a href="#projects" class="btn btn-primary">Ver Proyectos</a>
-              <a :href="portfolioData.contact.cv" class="btn btn-secondary" download>Descargar CV</a>
+              <a href="#contact" class="btn btn-secondary">Contacto</a>
             </div>
             <div class="hero-stats">
               <div v-for="stat in portfolioData.stats" :key="stat.label" class="stat">
