@@ -495,7 +495,7 @@ body {
 .about-subtitle {
   font-size: 1.3rem;
   font-weight: 700;
-  color: var(--accent);
+  color: #0f172a;
   margin-bottom: 1.5rem;
   line-height: 1.6;
 }
