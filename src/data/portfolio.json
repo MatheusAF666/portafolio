@@ -7,8 +7,8 @@
     "email": "matheusalveslinkedin@gmail.com",
     "phone": "+34 641 04 67 16",
     "location": "Madrid, España",
-    "bio": "Soy desarrollador full stack especializado en Laravel, Vue.js y WordPress. Construyo aplicaciones web escalables y modernas usando PHP, JavaScript, TypeScript, HTML y CSS. Experto en arquitectura de APIs RESTful, desarrollo de interfaces dinámicas con Vue 3 y sitios WordPress personalizados.",
-    "bio2": "Me apasiona escribir código limpio, mantenible y eficiente. Domino tanto frontend como backend, permitiéndome crear soluciones end-to-end de alta calidad. Experto en WordPress custom themes, plugins, Laravel APIs y Vue.js SPAs. Enfocado en best practices, testing y optimización de performance."
+    "bio": "Como desarrollador full-stack, me centro en crear y mantener aplicaciones web robustas y dinámicas, utilizando principalmente Laravel (PHP) y Vue.js.",
+    "bio2": "Me dedico a la construcción de soluciones escalables, desde el diseño de APIs RESTful eficientes y una lógica de negocio sólida, hasta la creación de interfaces reactivas."
   },
   "stats": [
     { "number": "4+", "label": "Apps Publicadas" },
