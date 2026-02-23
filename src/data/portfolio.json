@@ -1,0 +1,113 @@
+{
+  "profile": {
+    "name": "Matheus Alves",
+    "role": "Full Stack Developer",
+    "tagline": "Enfocado en Laravel, Vue.js, WordPress | PHP | TypeScript | JavaScript",
+    "avatar": "/images/profile_photo/foto.jpeg",
+    "email": "matheusalveslinkedin@gmail.com",
+    "phone": "+34 641 04 67 16",
+    "location": "Madrid, España",
+    "bio": "Soy desarrollador full stack especializado en Laravel, Vue.js y WordPress. Construyo aplicaciones web escalables y modernas usando PHP, JavaScript, TypeScript, HTML y CSS. Experto en arquitectura de APIs RESTful, desarrollo de interfaces dinámicas con Vue 3 y sitios WordPress personalizados.",
+    "bio2": "Me apasiona escribir código limpio, mantenible y eficiente. Domino tanto frontend como backend, permitiéndome crear soluciones end-to-end de alta calidad. Experto en WordPress custom themes, plugins, Laravel APIs y Vue.js SPAs. Enfocado en best practices, testing y optimización de performance."
+  },
+  "stats": [
+    { "number": "4+", "label": "Apps Publicadas" },
+    { "number": "6+", "label": "Proyectos Completados" }
+  
+  ],
+  "values": [
+    "Código limpio y bien arquitecturado",
+    "APIs RESTful robustas y escalables",
+    "Componentes Vue.js reutilizables",
+    "Performance y accesibilidad web"
+  ],
+  "skills": [
+    { "name": "PHP", "level": "Avanzado", "category": "Backend", "iconClass": "devicon-php-plain" },
+    { "name": "Laravel", "level": "Avanzado", "category": "Backend", "iconClass": "devicon-laravel-plain" },
+    { "name": "WordPress", "level": "Avanzado", "category": "CMS", "iconClass": "devicon-wordpress-plain" },
+    { "name": "Vue.js 3", "level": "Avanzado", "category": "Frontend", "iconClass": "devicon-vuejs-plain" },
+    { "name": "JavaScript", "level": "Avanzado", "category": "Frontend", "iconClass": "devicon-javascript-plain" },
+    { "name": "TypeScript", "level": "Avanzado", "category": "Frontend", "iconClass": "devicon-typescript-plain" },
+    { "name": "HTML5", "level": "Avanzado", "category": "Frontend", "iconClass": "devicon-html5-plain" },
+    { "name": "CSS / SCSS", "level": "Avanzado", "category": "Frontend", "iconClass": "devicon-css3-plain" },
+    { "name": "MySQL", "level": "Avanzado", "category": "Backend", "iconClass": "devicon-mysql-plain" },
+    { "name": "Git", "level": "Avanzado", "category": "Tools", "iconClass": "devicon-git-plain" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Clinica Veterinaria Nicieza",
+      "description": "Pagina web para una clinica veterinaria en Norena. Sitio desarrollado en WordPress con diseno responsivo, seccion de servicios y tienda con WooCommerce para productos y reservas.",
+      "role": "WordPress Developer",
+      "technologies": ["WordPress", "WooCommerce", "Custom Themes", "ACF"],
+      "image": "/images/projects/VeterinariaNicieza.jpeg",
+      "metrics": {
+        "label": "Resultado",
+        "value": "Incremento de consultas y ventas online"
+      },
+      "learnings": "Personalizacion de WooCommerce, estructura SEO local, performance y seguridad en WordPress.",
+      "demoUrl": "https://veterinarianicieza.com/",
+      "repoUrl": null
+    },
+    {
+      "id": 2,
+      "title": "SaaS de Gestión de Presupuestos y Clientes",
+      "description": "Aplicación web SaaS para la gestión integral de presupuestos y clientes. Permite crear, editar y eliminar presupuestos; administrar base de datos de clientes; y enviar presupuestos por correo electrónico. Desarrollada con Laravel (backend) y Vue 3 (frontend).",
+      "role": "Full Stack Developer",
+      "technologies": ["Laravel", "Vue.js 3", "JavaScript", "MySQL", "API REST"],
+      "image": "/images/projects/SaaS_presupuesto.png",
+      "metrics": {
+        "label": "Funcionalidades",
+        "value": "CRUD completo de presupuestos y clientes, envío de emails"
+      },
+      "learnings": "Gestión de autenticación, CRUD operations, integración de mailing en Laravel, componentes Vue reutilizables, validaciones en frontend y backend.",
+      "demoUrl": "https://matildas-budget-2.onrender.com/",
+      "repoUrl": "https://github.com/MatheusAF666/matildas_budget"
+    },
+    {
+      "id": 3,
+      "title": "Blog con Editor Markdown",
+      "description": "Plataforma de blog completa con CRUD de posts, API RESTful y editor Markdown integrado. Permite crear, editar, eliminar y publicar artículos con soporte para formato Markdown. Desarrollada con Laravel (backend) y Vue 3 (frontend).",
+      "role": "Full Stack Developer",
+      "technologies": ["Laravel", "Vue.js 3", "JavaScript", "MySQL", "API REST", "Markdown Editor"],
+      "image": "/images/projects/blog_editorMarkdown.jpeg",
+      "metrics": {
+        "label": "Funcionalidades",
+        "value": "CRUD completo de posts, editor Markdown, renderizado dinámico"
+      },
+      "learnings": "Implementación de API RESTful, integración de editor Markdown, CRUD operations, componentes Vue reactivos, validaciones de datos.",
+      "demoUrl": "https://matildas-blog-1.onrender.com/",
+      "repoUrl": "https://github.com/MatheusAF666/matildas_blog"
+    },
+    {
+      "id": 4,
+      "title": "Landing Page de Reformas",
+      "description": "Landing page en WordPress para mostrar reformas realizadas y servicios disponibles. Enfocada en mostrar el portafolio de trabajos, secciones informativas y un flujo claro para contacto.",
+      "role": "WordPress Developer",
+      "technologies": ["WordPress", "Custom Theme", "SEO", "Responsive Design"],
+      "image": "/images/projects/reformas.jpeg",
+      "metrics": {
+        "label": "Objetivo",
+        "value": "Presentar reformas y captar solicitudes"
+      },
+      "learnings": "Estructura de landing orientada a conversion, optimizacion de tiempos de carga y estrategia visual para portafolio de reformas.",
+      "demoUrl": "https://www.reformasintegralesneto.es/",
+      "repoUrl": null
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ilerna",
+      "title": "Grado Superior en Desarrollo de Aplicaciones Web",
+      "year": "Completado",
+      "logo": "https://www.ilerna.es/static/de96e1c87c0b8ccf96eb2bb07ae56f1b/53ae8/Logo-Ilerna.png",
+      "certificateUrl": null
+    }
+  ],
+  "contact": {
+    "email": "matheusalveslinkedin@gmail.com",
+    "phone": "+34 641 04 67 16",
+    "github": "https://github.com/MatheusAF666",
+    "cv": "/documents/CV-2024.pdf"
+  }
+}
