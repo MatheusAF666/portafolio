@@ -2,13 +2,13 @@
   "profile": {
     "name": "Matheus Alves",
     "role": "Full Stack Developer",
-    "tagline": "Enfocado en Laravel, Vue.js, WordPress | PHP | TypeScript | JavaScript",
+    "tagline": "Desarrollador full-stack — Laravel (PHP), Vue.js y WordPress: APIs eficientes, interfaces reactivas y soluciones WooCommerce/WordPress a medida.",
     "avatar": "/images/profile_photo/foto.jpeg",
     "email": "matheusalveslinkedin@gmail.com",
     "phone": "+34 641 04 67 16",
     "location": "Madrid, España",
-    "bio": "Como desarrollador full-stack, me centro en crear y mantener aplicaciones web robustas y dinámicas, utilizando principalmente Laravel (PHP) y Vue.js.",
-    "bio2": "Me dedico a la construcción de soluciones escalables, desde el diseño de APIs RESTful eficientes y una lógica de negocio sólida, hasta la creación de interfaces reactivas."
+    "bio": "Soy desarrollador full-stack especializado en Laravel y Vue.js, con experiencia demonstrada en proyectos basados en WordPress (sitios a medida, themes/plugins y tiendas WooCommerce). Diseño APIs RESTful y arquitecturas escalables, desarrollo interfaces reactivas y entrego soluciones completas que priorizan rendimiento, seguridad y experiencia de usuario.",
+    "bio2": ""
   },
   "stats": [
     { "number": "4+", "label": "Apps Publicadas" },
@@ -108,6 +108,6 @@
     "email": "matheusalveslinkedin@gmail.com",
     "phone": "+34 641 04 67 16",
     "github": "https://github.com/MatheusAF666",
-    "cv": "/documents/CV-2024.pdf"
+    "cv": "/documents/resume (1).pdf"
   }
 }
