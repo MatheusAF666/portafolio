@@ -46,6 +46,7 @@
         <h2 class="section-title">Sobre Mí</h2>
         <div class="about-content">
           <div class="about-text">
+            <h3 class="about-subtitle">{{ portfolioData.profile.tagline }}</h3>
             <p>{{ portfolioData.profile.bio }}</p>
             <p>{{ portfolioData.profile.bio2 }}</p>
           </div>
@@ -489,6 +490,14 @@ body {
   line-height: 1.8;
   margin-bottom: 1.5rem;
   color: #0f172a;
+}
+
+.about-subtitle {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
 }
 
 .about-values h3 {
