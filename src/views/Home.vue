@@ -154,6 +154,10 @@
               <i class="devicon-github-original contact-icon" aria-hidden="true"></i>
               <span>GitHub</span>
             </a>
+            <a :href="portfolioData.contact.linkedin" target="_blank" class="contact-link">
+              <i class="devicon-linkedin-plain contact-icon" aria-hidden="true"></i>
+              <span>LinkedIn</span>
+            </a>
           </div>
         </div>
       </div>
